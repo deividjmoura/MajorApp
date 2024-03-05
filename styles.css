@@ -42,8 +42,8 @@ p {
     background-color: rgba(192, 184, 184, 0.194); /* cor de fundo semi-transparente */
     padding: 20px;
     border-radius: 10px;
-    height: 60%;
-    width: 20%; /* largura da lista */
+    height: 40%;
+    width: 60%; /* largura da lista */
     margin: 5px auto; /* centralizar horizontalmente */
 }
 
